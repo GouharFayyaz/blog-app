@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bolg-app/static/css/main.c194e5be.css",
+    "main.js": "/bolg-app/static/js/main.ff697839.js",
+    "index.html": "/bolg-app/index.html",
+    "main.c194e5be.css.map": "/bolg-app/static/css/main.c194e5be.css.map",
+    "main.ff697839.js.map": "/bolg-app/static/js/main.ff697839.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c194e5be.css",
+    "static/js/main.ff697839.js"
+  ]
+}
