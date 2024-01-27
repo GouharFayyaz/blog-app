@@ -1,8 +1,8 @@
 {
-  "homepage": "https://GouharFayyaz.github.io/bolg-app",
+  "homepage": "https://gouharfayyaz.github.io/bolg-app",
   "name": "toolkitreact",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.5",
